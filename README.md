@@ -1,7 +1,7 @@
-<h2>⚔️ Selam, ben Emin</h2>
+<h2>Selam, ben Emin 👋🏼</h2>
 
-> Gündüzleri gömülü sistem mühendisi, geceleri ürün zanaatkârı.  
-> Donanım kokan problemleri yazılımla evcilleştirmeyi seviyorum.
+> Sistem mühendisi perspektifiyle ürün inşa ediyorum:  
+> embedded, full-stack ve AI katmanlarını aynı hikâyede buluşturuyorum.
 
 <p>
   <a href="https://github.com/eminboydak/duckTerm"><img src="https://img.shields.io/badge/duckTerm-Serial%20Terminal-1f6feb?style=flat-square&logo=tauri&logoColor=white" alt="duckTerm"></a>
@@ -11,8 +11,9 @@
 </p>
 
 ### ✨ Son maceralar
-- **duckTerm** — embedded ekipleri için yeni nesil, çapraz platform serial terminal.
-- **hex** — sakin ama güçlü bir dijital üretim atölyesi.
-- **Stancona** — organizasyon vitrini ve anlatı dilini yeniden kurma işleri.
+- **duckTerm** — çapraz platform terminal deneyimini yeniden kuran bir mühendislik oyunu.
+- **hex** — dijital atölye tarafında içerik, altyapı ve ürün akışları.
+- **Stancona** — org kimliği, vitrin dili ve üretim ekosistemini birlikte büyütme.
+- **AEB Mühendislik** — sahaya yakın, ölçülebilir ve gerçek dünya odaklı mühendislik katkıları.
 
-<sub>Minimal kal, net vur, sistem çalışsın.</sub>
+<sub>Az söz, temiz mimari, çalışan sistemler.</sub>
