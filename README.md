@@ -1,19 +1,26 @@
-<h2>Selam, ben Emin 👋🏼</h2>
+<h2>Hey, I’m Emin 👋🏼</h2>
 
-> Sistem mühendisi perspektifiyle ürün inşa ediyorum:  
-> embedded, full-stack ve AI katmanlarını aynı hikâyede buluşturuyorum.
+> I build products, systems, and interfaces with an engineering mindset.
+> Web, infrastructure, and content are the three layers I keep coming back to.
+
+> Rolled a 20 on engineering, still figuring out the rest.
 
 <p>
-  <a href="https://github.com/eminboydak/duckTerm"><img src="https://img.shields.io/badge/duckTerm-Serial%20Terminal-1f6feb?style=flat-square&logo=tauri&logoColor=white" alt="duckTerm"></a>
-  <a href="https://github.com/eminboydak/hex"><img src="https://img.shields.io/badge/hex-Digital%20Workshop-6f42c1?style=flat-square&logo=cloudflare&logoColor=white" alt="hex"></a>
+  <a href="https://github.com/eminboydak/hex"><img src="https://img.shields.io/badge/eminboydak.com-Personal%20Site-6f42c1?style=flat-square&logo=cloudflare&logoColor=white" alt="hex"></a>
   <a href="https://github.com/stancona/.github"><img src="https://img.shields.io/badge/Stancona-Org%20Profile%20Builder-0e7490?style=flat-square&logo=github&logoColor=white" alt="Stancona"></a>
   <a href="https://github.com/eminboydak/.dotfiles"><img src="https://img.shields.io/badge/dotfiles-Dev%20Arsenal-111827?style=flat-square&logo=gnubash&logoColor=white" alt="dotfiles"></a>
 </p>
 
-### ✨ Son maceralar
-- **duckTerm** — çapraz platform terminal deneyimini yeniden kuran bir mühendislik oyunu.
-- **hex** — dijital atölye tarafında içerik, altyapı ve ürün akışları.
-- **Stancona** — org kimliği, vitrin dili ve üretim ekosistemini birlikte büyütme.
-- **AEB Mühendislik** — sahaya yakın, ölçülebilir ve gerçek dünya odaklı mühendislik katkıları.
+### What I’m building
+- **eminboydak.com / hex** — my personal site: blog, projects, CV, and portfolio in one place.
+- **AEB site** — a company site built with a practical, production-minded approach.
+- **Stancona** — the org identity, voice, and publishing system behind the larger ecosystem.
 
-<sub>Az söz, temiz mimari, çalışan sistemler.</sub>
+### Where I spend my time
+Product engineering • server-side work • DevOps • edge / cloud infrastructure • content-driven personal web • AI-assisted development
+
+### A bit more about me
+I like systems that are clean, maintainable, and actually ship. I keep the structure simple, the implementation disciplined, and the output useful.
+
+### Current note
+Building in public, but with enough restraint to keep the signal high.
