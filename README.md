@@ -14,6 +14,5 @@
 - **duckTerm** — embedded ekipleri için yeni nesil, çapraz platform serial terminal.
 - **hex** — sakin ama güçlü bir dijital üretim atölyesi.
 - **Stancona** — organizasyon vitrini ve anlatı dilini yeniden kurma işleri.
-- **AEB-Mühendislik** — sahaya yakın mühendislik refleksi: sağlam, ölçülebilir, gerçek dünya odaklı.
 
 <sub>Minimal kal, net vur, sistem çalışsın.</sub>
